@@ -61,10 +61,13 @@
 
 ### 💾 Работа с данными:
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-</div>
+<ul>
+  <li>Базы данных. Типы БД и СУБД. Нормальные формы</li>
+  <li>Установка MySQL-сервер. Создание таблиц в БД</li>
+  <li>SELECT запросы в SQL. Агрегатные функции</li>
+  <li>JOIN запросы в SQL</li>
+  <li>NoSQL база данных на примере MongoDB</li>
+</ul>
 
 ---
 
